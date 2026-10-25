@@ -1,0 +1,8 @@
+node_modules/
+dist/
+.env
+.env.*
+server/monitra.sqlite
+server/monitra.sqlite-shm
+server/monitra.sqlite-wal
+.DS_Store
