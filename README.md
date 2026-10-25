@@ -32,7 +32,7 @@ MONITRA is a full-stack project that checks public HTTP/HTTPS websites, stores m
 Clone the project and install dependencies in **both** applications:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/monitra.git
+git clone https://github.com/numairdev/monitra.git
 cd monitra
 cd server
 npm install
