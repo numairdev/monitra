@@ -122,3 +122,6 @@ monitra/
 ## Screenshots
 
 Add screenshots of your running dashboard here before sharing the project with recruiters. Use your own MONITRA screenshots rather than stock mockups.
+## Dashboard Preview
+
+![MONITRA Dashboard](screenshots/dashboard.png)
